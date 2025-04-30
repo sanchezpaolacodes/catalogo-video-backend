@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.paolacodes.admin.catalogo.infrastructure.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-30T18:09:31" hostname="MacBook-Pro-de-Paola.local" time="0.008">
+  <properties/>
+  <testcase name="testMain()" classname="com.paolacodes.admin.catalogo.infrastructure.MainTest" time="0.008"/>
+  <system-out><![CDATA[Hello World!
+com.paolacodes.admin.catalogo.domain.Category@27406a17
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
